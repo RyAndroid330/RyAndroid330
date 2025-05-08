@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @RyAndroid330
+- 👋 Hi, I’m @Ryan
 - 👀 I’m interested in JavaScript 
 - 🌱 I’m currently learning JavaScript
